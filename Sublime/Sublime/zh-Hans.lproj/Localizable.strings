@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Sublime
+
+  Created by Eular on 4/6/16.
+  Copyright © 2016 Eular. All rights reserved.
+*/
+
+SHARE_IN_PICTURE="以图片分享";
+RECOGNIZE_QRCODE="识别二维码";

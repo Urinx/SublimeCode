@@ -1,0 +1,9 @@
+framework module NMSSH {
+  umbrella header "NMSSH-umbrella.h"
+
+  export *
+  module * { export * }
+
+  private header "NMSSH+Protected.h"
+  private header "socket_helper.h"
+}

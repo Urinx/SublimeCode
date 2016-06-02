@@ -1,0 +1,6 @@
+framework module AlamofireRSSParser {
+  umbrella header "AlamofireRSSParser-umbrella.h"
+
+  export *
+  module * { export * }
+}

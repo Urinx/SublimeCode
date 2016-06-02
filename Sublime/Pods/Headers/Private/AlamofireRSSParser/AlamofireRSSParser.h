@@ -1,0 +1,1 @@
+../../../AlamofireRSSParser/Pod/Classes/AlamofireRSSParser.h

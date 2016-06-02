@@ -1,0 +1,6 @@
+framework module ZLSinusWaveView {
+  umbrella header "ZLSinusWaveView-umbrella.h"
+
+  export *
+  module * { export * }
+}
