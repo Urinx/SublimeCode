@@ -36,12 +36,15 @@ Cycript是混合了objective-c与javascript语法的一个工具,让开发者在
 ### 如何安装
 鉴于该应用没有上架App Store，同时也没有用企业证书签名，所以目前你只能通过以下两种方式安装，注意的是两者均需要在Mac环境下，以及安装了Xcode。推荐采取方案一的方式。
 
-方案一：
-1. 下载已经build好的[ipa文件](https://github.com/Urinx/SublimeCode/releases)。
-2. 使用Xcode新建一个项目，bundle id可以为`com.xxx.Sublime`，生成相应的证书。
-3. 使用[iOS App Signer](https://github.com/DanTheMan827/ios-app-signer)重签名本应用，注意选择上一步生成的对应的证书。
-4. 然后就可以使用iTunes，Xcode等各种软件将重签名后的ipa文件安装到设备上。
 
-方案二：
-1. 下载本项目[源码](https://github.com/Urinx/SublimeCode/archive/v1.0.zip)。
-2. 注意修改bundle id，再编译到设备上。
+> 方案一：
+> 
+> 1. 下载已经build好的[ipa文件](https://github.com/Urinx/SublimeCode/releases)。
+> 2. 使用Xcode新建一个项目，bundle id可以为`com.xxx.Sublime`，生成相应的证书。
+> 3. 使用[iOS App Signer](https://github.com/DanTheMan827/ios-app-signer)重签名本应用，注意选择上一步生成的对应的证书。
+> 4. 然后就可以使用iTunes，Xcode等各种软件将重签名后的ipa文件安装到设备上。
+
+> 方案二：
+> 
+> 1. 下载本项目[源码](https://github.com/Urinx/SublimeCode/archive/v1.0.zip)。
+> 2. 注意修改bundle id，再编译到设备上。
