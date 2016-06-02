@@ -1,4 +1,4 @@
-# SublimeCode
+# SublimeCode [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=Urinx&repo=SublimeCode&style=flat&background=1081C1)](http://github.com/Urinx/SublimeCode) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=Urinx&repo=SublimeCode&style=flat&background=1081C1)](http://github.com/Urinx/SublimeCode/fork) [![license](https://img.shields.io/github/license/Urinx/SublimeCode.svg)](https://github.com/Urinx/SublimeCode/blob/master/LICENSE) ![platform](https://img.shields.io/badge/platform-iOS 9-lightgrey.svg) [![download](https://img.shields.io/badge/download-Pre.im-ff69b4.svg)](http://pre.im/cctv)
 一个代码阅读应用 - iOS
 
 ### 屏幕截图
